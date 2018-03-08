@@ -2,7 +2,7 @@
 
   "posts": [
 
-    { "id": 1,  "_id" : ObjectId("5a8ed9a57eb95cd5d2855904"), "p_sub" : "3", "t_sub" : "75", "v_fan" : "20000", "t_eva" : "00:00:00", "p_o2" : "850", "rate_o2" : "0.75", "cap_battery" : "15", "p_h2o_g" : "15", "p_h2o_l" : "15", "p_sop" : "850", "rate_sop" : "0.75" }
+    { "id": 1, "p_sub" : "3", "t_sub" : "75", "v_fan" : "20000", "t_eva" : "00:00:00", "p_o2" : "850", "rate_o2" : "0.75", "cap_battery" : "15", "p_h2o_g" : "15", "p_h2o_l" : "15", "p_sop" : "850", "rate_sop" : "0.75" }
 
   ],
 
