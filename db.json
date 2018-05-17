@@ -2,7 +2,7 @@
 
   "posts": [
 
-    { "id": 1, "p_sub" : "3", "t_sub" : "75", "v_fan" : "20000", "t_eva" : "00:00:00", "p_o2" : "850", "rate_o2" : "0.75", "cap_battery" : "15", "p_h2o_g" : "15", "p_h2o_l" : "15", "p_sop" : "850", "rate_sop" : "0.75" }
+      {"create_date":"2018-05-14T16:35:04.305Z","sop_on":false,"sspe":false,"fan_error":false,"vent_error":false,"vehicle_power":false,"h2o_off":false,"o2_off":false}
 
   ],
 
